@@ -1,0 +1,23 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces System Architecture \relax }}{9}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces UML Diagram \relax }}{11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Drivers of ML industrial success according to Andrew Ng \relax }}{13}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Inception v3 Architecture\relax }}{14}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Array of RGB Matrix\relax }}{15}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Neural network with many convolutional layers\relax }}{16}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Image matrix multiplies kernel or filter matrix\relax }}{16}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Stride of 2 pixels\relax }}{17}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Max Pooling\relax }}{18}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces After pooling layer, flattened as FC layer\relax }}{18}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces ReLU operation\relax }}{19}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Inception cell\relax }}{20}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Inception Network\relax }}{21}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Model Accuracy Plot\relax }}{27}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Android Application\relax }}{28}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces User Interface\relax }}{30}

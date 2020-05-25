@@ -1,0 +1,44 @@
+\contentsline {chapter}{\hskip 1em\relax CERTIFICATE}{}
+\contentsline {chapter}{\hskip 1em\relax UNDERTAKING}{}
+\contentsline {chapter}{\hskip 1em\relax ACKNOWLEDGEMENT}{i}
+\contentsline {chapter}{\hskip 1em\relax ABSTRACT}{ii}
+\contentsline {chapter}{\hskip 1em\relax LIST OF FIGURES}{iv}
+\contentsline {chapter}{\hskip 1em\relax LIST OF TABLES}{v}
+\contentsline {chapter}{\hskip 1em\relax LIST OF SYMBOLS AND ABBREVIATIONS}{vi}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}
+\contentsline {section}{\numberline {1.1}General}{1}
+\contentsline {section}{\numberline {1.2}Objectives of the Work}{2}
+\contentsline {section}{\numberline {1.3}Motivation for this work}{2}
+\contentsline {section}{\numberline {1.4}Methodologies Adopted}{2}
+\contentsline {section}{\numberline {1.5}Outline of the Report}{3}
+\contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{4}
+\contentsline {section}{\numberline {2.1}Going deeper with convolutions}{4}
+\contentsline {section}{\numberline {2.2}Deep Residual Learning for Image Recognition}{6}
+\contentsline {section}{\numberline {2.3}Inception-v3 for Flower Classification}{7}
+\contentsline {section}{\numberline {2.4}Deep Convolutional Neural Networks for Computer-Aided Detection: CNN Architectures, Dataset Characteristics and Transfer Learning}{7}
+\contentsline {chapter}{\numberline {3}SYSTEM DESIGN}{9}
+\contentsline {section}{\numberline {3.1}System Architecture}{9}
+\contentsline {section}{\numberline {3.2}UML Diagram}{10}
+\contentsline {chapter}{\numberline {4}METHODOLOGY}{12}
+\contentsline {section}{\numberline {4.1}Transfer Learning}{12}
+\contentsline {section}{\numberline {4.2}Inception v3}{13}
+\contentsline {section}{\numberline {4.3}Architecture}{14}
+\contentsline {subsection}{\numberline {4.3.1}Convolutional Neural Network }{14}
+\contentsline {subsection}{\numberline {4.3.2}Inception Layers }{15}
+\contentsline {subsection}{\numberline {4.3.3}Inception Cell }{20}
+\contentsline {chapter}{\numberline {5}IMPLEMENTATION AND DEPLOYMENT}{22}
+\contentsline {section}{\numberline {5.1}Software Requirements}{22}
+\contentsline {subsection}{\numberline {5.1.1}Keras}{22}
+\contentsline {subsection}{\numberline {5.1.2}TensorFlow}{23}
+\contentsline {subsection}{\numberline {5.1.3}Python 3.7}{24}
+\contentsline {subsection}{\numberline {5.1.4}NumPy}{24}
+\contentsline {subsection}{\numberline {5.1.5}Android Studio}{25}
+\contentsline {section}{\numberline {5.2}Dataset Formation}{25}
+\contentsline {section}{\numberline {5.3}Deployment}{26}
+\contentsline {chapter}{\numberline {6}EVALUATION AND RESULT}{27}
+\contentsline {section}{\numberline {6.1}Evaluation Of Model}{27}
+\contentsline {section}{\numberline {6.2}Result}{28}
+\contentsline {chapter}{\numberline {7}CONCLUSION}{29}
+\contentsline {section}{\numberline {7.1}Scope}{29}
+\contentsline {section}{\numberline {7.2}Future Developments}{29}
+\contentsline {chapter}{\hskip 1em\relax BIBLIOGRAPHY}{31}
