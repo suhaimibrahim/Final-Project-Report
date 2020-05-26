@@ -47,6 +47,11 @@
 \contentsline {subsubsection}{Pre-trained Model Approach}{22}%
 \contentsline {subsection}{\numberline {4.3.2}Transfer Learning with Image Data}{23}%
 \contentsline {subsection}{\numberline {4.3.3}Conditions to use Transfer Learning}{23}%
-\contentsline {chapter}{\numberline {5}CONCLUSION}{25}%
-\contentsline {paragraph}{}{25}%
-\contentsline {chapter}{\hskip 1em\relax BIBLIOGRAPHY}{26}%
+\contentsline {section}{\numberline {4.4}VGG19}{24}%
+\contentsline {subsection}{\numberline {4.4.1}Layers}{25}%
+\contentsline {subsection}{\numberline {4.4.2}Architecture}{26}%
+\contentsline {subsection}{\numberline {4.4.3}Results}{27}%
+\contentsline {subsection}{\numberline {4.4.4}Usages}{27}%
+\contentsline {chapter}{\numberline {5}CONCLUSION}{28}%
+\contentsline {paragraph}{}{28}%
+\contentsline {chapter}{\hskip 1em\relax BIBLIOGRAPHY}{29}%

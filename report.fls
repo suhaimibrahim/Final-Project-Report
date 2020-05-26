@@ -218,6 +218,8 @@ INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/l
 INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
 INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
 INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
 INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 OUTPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.idx
@@ -458,6 +460,25 @@ INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer
 INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer.png
 INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
 INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
 INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
 INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
 INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
@@ -485,3 +506,5 @@ INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts
 INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
 INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
 INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb

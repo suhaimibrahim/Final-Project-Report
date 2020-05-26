@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2020.5.25)  26 MAY 2020 15:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2020.5.25)  26 MAY 2020 18:29
 entering extended mode
 **"/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.tex"
 ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.tex"
@@ -551,6 +551,13 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) ("/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count325
+\float@exts=\toks48
+\float@box=\box67
+\@float@everytoks=\toks49
+\@floatcapt=\box68
 ) ("/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex"
 File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
@@ -566,24 +573,30 @@ Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
  ("/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfpages/pppdftex.def"
 File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box67
-\AM@global@opts=\toks48
-\AM@pagecnt=\count325
-\AM@toc@title=\toks49
-\c@AM@survey=\count326
-\AM@templatesizebox=\box68
+\AM@pagebox=\box69
+\AM@global@opts=\toks50
+\AM@pagecnt=\count326
+\AM@toc@title=\toks51
+\c@AM@survey=\count327
+\AM@templatesizebox=\box70
 ) ("/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box69
+\ttl@box=\box71
 \beforetitleunit=\skip68
 \aftertitleunit=\skip69
 \ttl@plus=\dimen311
 \ttl@minus=\dimen312
-\ttl@toksa=\toks50
+\ttl@toksa=\toks52
 \titlewidth=\dimen313
 \titlewidthlast=\dimen314
 \titlewidthfirst=\dimen315
 )) ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.aux"
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
 
 LaTeX Warning: Label `ss' multiply defined.
 
@@ -621,17 +634,17 @@ LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 12
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) ("/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count327
+\scratchcounter=\count328
 \scratchdimen=\dimen316
-\scratchbox=\box70
-\nofMPsegments=\count328
-\nofMParguments=\count329
-\everyMPshowfont=\toks51
-\MPscratchCnt=\count330
+\scratchbox=\box72
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count331
 \MPscratchDim=\dimen317
-\MPnumerator=\count331
-\makeMPintoPDFobject=\count332
-\everyMPtoPDFconversion=\toks52
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks54
 ) ("/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -670,9 +683,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box71
+\AtBeginShipoutBox=\box73
 ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
  ("/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdflscape/pdflscape.sty"
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -1077,46 +1091,93 @@ File: VidyaLogo.JPG Graphic file (type jpg)
 Package pdftex.def Info: VidyaLogo.JPG  used on input line 660.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
 [23]
+Underfull \hbox (badness 10000) in paragraph at lines 663--665
+
+ []
+
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
-Package pdftex.def Info: VidyaLogo.JPG  used on input line 663.
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 665.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
- [24 </Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer.png>]
+[24 </Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 667--669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 667--669
+
+ []
+
+<vgg19-layers.png, id=128, 602.25pt x 345.29pt>
+File: vgg19-layers.png Graphic file (type png)
+<use vgg19-layers.png>
+Package pdftex.def Info: vgg19-layers.png  used on input line 673.
+(pdftex.def)             Requested size: 455.24408pt x 261.01637pt.
+
+Overfull \hbox (31.18376pt too wide) in paragraph at lines 673--674
+ [][] 
+ []
+
+File: VidyaLogo.JPG Graphic file (type jpg)
+<use VidyaLogo.JPG>
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 677.
+(pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
+[25 </Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 677--678
+
+ []
+
+<vgg19-arch-details.png, id=132, 720.6925pt x 956.57375pt>
+File: vgg19-arch-details.png Graphic file (type png)
+<use vgg19-arch-details.png>
+Package pdftex.def Info: vgg19-arch-details.png  used on input line 682.
+(pdftex.def)             Requested size: 321.54842pt x 426.79059pt.
+File: VidyaLogo.JPG Graphic file (type jpg)
+<use VidyaLogo.JPG>
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 694.
+(pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
+[26 </Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png>]
+File: VidyaLogo.JPG Graphic file (type jpg)
+<use VidyaLogo.JPG>
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 706.
+(pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
+ [27]
 Chapter 5.
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
-Package pdftex.def Info: VidyaLogo.JPG  used on input line 681.
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 724.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
-[25
+[28
 
 ]
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
-Package pdftex.def Info: VidyaLogo.JPG  used on input line 712.
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 755.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
- [26
+ [29
 
 
 ]
-Underfull \hbox (badness 1102) in paragraph at lines 719--722
+Underfull \hbox (badness 1102) in paragraph at lines 762--765
 \OT1/ptm/m/n/12 \Leaf classi?`cation us-ing shape, color, and tex-ture fea-tures," arXiv preprint
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 724--725
+Underfull \hbox (badness 10000) in paragraph at lines 767--768
 []\OT1/ptm/m/n/12 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-
  []
 
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
-Package pdftex.def Info: VidyaLogo.JPG  used on input line 747.
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 790.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
-[27] ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/lastpage.tex"
+[30] ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/lastpage.tex"
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
 Package pdftex.def Info: VidyaLogo.JPG  used on input line 18.
 (pdftex.def)             Requested size: 71.13188pt x 46.55115pt.
-) [28
+) [31
 
 ] ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.aux")
 
@@ -1124,17 +1185,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19935 strings out of 480803
- 390617 string characters out of 2886604
- 769731 words of memory out of 3000000
- 35482 multiletter control sequences out of 15000+200000
- 565038 words of font info for 101 fonts, out of 3000000 for 9000
+ 20009 strings out of 480803
+ 391883 string characters out of 2886604
+ 771263 words of memory out of 3000000
+ 35548 multiletter control sequences out of 15000+200000
+ 566722 words of font info for 103 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,15n,108p,901b,1127s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.pdf" (38 pages, 545132 bytes).
+ 64i,15n,108p,901b,1148s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.pdf" (41 pages, 617593 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
+ 176 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
