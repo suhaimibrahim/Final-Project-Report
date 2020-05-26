@@ -703,6 +703,32 @@ On a single test scale, VGG achieved a top-1 error of 25.5\% and a top-5 error o
     \item Transfer Learning
 \end{itemize}
 
+
+\chapter{IMPLEMENTATION AND DEPLOYMENT}
+
+\section{Software Requirements}
+These are main sofware requirements to implement the proposed solution.
+
+\subsection{NumPy}
+NumPy is a general-purpose array-processing package.  It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.  At the core of the NumPy package, is the ndarray object.  This encapsulates n-dimensional arrays of homogeneous data types, with many operations being performed in compiled code for performance.
+
+\subsection{TensorFlow}
+TensorFlow is an open-source software library released in 2015 by Google to make it easier for developers to design, build, and train deep learning models. TensorFlow is available on different operating systems such as Linux, Windows, macOS, and also on mobile operating platforms like iOS and Android.  One of the salient features of TensorFlow is that it is capable of running on multiple CPUs and GPUs.  The computations in Tensor-Flow are reported as stateful dataflow graphs. TensorFlow is considered the first serious implementation of a framework focused on deep learning. TensorFlow can train and run deep neural networks for handwritten digit classification, image recognition, word embeddings, recurrent neural networks, sequence-to-sequence models for machine translation, natural language processing, and PDE (partial differential equation) based simulations. TensorFlow supports production prediction at scale, with the same models used for training.
+
+\subsection{Keras}
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. It focuses on being user-friendly, modular, and extensible. It was developed as part of the research effort of project ONEIROS (Open-ended Neuro-Electronic Intelligent Robot Operating System). Keras contains numerous implementations of commonly used neural-network building blocks such as layers, objectives, activation functions, optimizers, and a host of tools to make working with image and text data easier.
+
+In addition to standard neural networks, Keras has support for convolutional and re-current  neural  networks.   It  supports  other  common  utility  layers  like  dropout,  batchnormalization, and pooling.
+
+Keras allows users to productize deep models on smartphones (iOS and Android), on the web, or on the Java Virtual Machine. It also allows use of distributed training of deep-learning models on clusters of Graphics Processing Units (GPU) and Tensor processingunits (TPU).
+
+\subsection{TensorFlow Lite}
+TensorFlow Lite is TensorFlow’s lightweight solution for mobile and embedded devices. It lets you run machine-learned models on mobile devices with low latency. Classification, regression, or anything else you might want without necessarily incurring a round trip to a server. It’s presently supported on Android and iOS via a C++ API, as well as having a Java Wrapper for Android Developers. TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size. TensorFlow Lite is designed to make it easy to perform machine learning on devices, "at the edge" of the network, instead of sending data back and forth from a server.
+
+\subsection{Android Studio}
+Android Studio is the official IDE for Android app development, based on IntelliJ IDEA. On top of IntelliJ’s powerful code editor and developer tools, Android Studio offers even more features that enhance your productivity when building Android apps, such as a flexible Gradle-based build system, a fast and feature-rich emulator, a unified environment where you can develop for all Android devices, Instant Run to push changes to your running app without building a new APK, etc.
+
+
 \chapter{CONCLUSION}
 \paragraph{}
 Ayurveda and herbal medicines are greatly used and followed worldwide, especially in India. Herbal medicine plants pose a big impact on the health of every people around the world. But the major issue we face is difficulty in efficiently and effectively identifying the plants that form the ingredients for the medicine.
