@@ -659,6 +659,49 @@ On some problems where you may not have very much data, transfer learning can en
 	\caption{Three ways in which transfer might improve learning.}
 \end{figure}
 
+\section{VGG19}
+AlexNet was released in 2012 and it improved on the traditional Convolutional Neural Networks. VGG can be considered as a successor of the AlexNet. It was created by a group called Visual Geometry Group at University of Oxford and hence the name VGG. The VGG network architecture was introduced by Simonyan and Zisserman in their 2014 paper, \emph{Very Deep Convolutional Networks for Large Scale Image Recognition}. It carries and uses some ideas from it's predecessors and improves on them and uses deep Convolutional neural layers to improve accuracy.\\\\
+VGG19 is a variant of VGG model which consists of 19 layers: 16 Convolution layers, 3 Fully Connected layers, 5 Max Pool layers and 1 Softmax layer. There are other variants of VGG like VGG11, VGG16 and others. VGG19 has 19.6 billion FLOPs.\pagebreak
+
+\subsection{Layers}
+This network is characterized by its simplicity, using only 3×3 convolutional layers stacked on top of each other in increasing depth. Reducing volume size is handled by max pooling. Two fully-connected layers, each with 4,096 nodes are then followed by a softmax classifier.\\\\
+A summary of the layers in the VGG19 model can be found in the following image:\\
+
+\begin{figure}[h]
+	\label{ss}
+	\centering
+	\includegraphics[width= 16 cm]{vgg19-layers.png}
+	\caption{Layers in VGG19}
+\end{figure}
+\pagebreak
+The table in the figure below contains the details of number of filters, parameters and activations for each layer in the VGG19 model:\\
+
+\begin{figure}[H]
+	\label{ss}
+	\centering
+	\includegraphics[width=20cm,height=15cm,keepaspectratio]{vgg19-arch-details.png}
+	\caption{Details on the VGG19 layers}
+\end{figure}
+
+\subsection{Architecture}
+A fixed size of (224 * 224) RGB image was given as input to this network. So the input matrix was of shape (224,224,3).
+The only preprocessing that was done is that the mean RGB value is subtracted from each pixel, over the whole training set.
+Kernels of (3 * 3) size with a stride size of 1 pixel were used. This enabled to cover the whole notion of the image.
+Spatial padding was used to preserve the spatial resolution of the image.
+Max pooling was performed over a 2 * 2 pixel windows with a stride of 2.
+This was followed by Rectified linear unit(ReLu) to introduce non-linearity to make the model classify better and to improve computational time.
+Three fully connected layers were implemented from which first two were of size 4096 and followed by a layer with 1000 channels for 1000-way ILSVRC classification and the final layer is a softmax function.
+
+\subsection{Results}
+On a single test scale, VGG achieved a top-1 error of 25.5\% and a top-5 error of 8.0\%. At multiple test scales, VGG got a top-1 error of 24.8\% and a top-5 error of 7.5\%. VGG also achieved second place in the 2014 ImageNet competition with its top-5 error of 7.3\%, which was decreased to 6.8\% after the submission.
+
+\subsection{Usages}
+\begin{itemize}
+    \item Considered to be one of the best vision model architectures
+    \item Used as a great classification architecture for many different datasets
+    \item Weights are easily available with frameworks like Keras
+    \item Transfer Learning
+\end{itemize}
 
 \chapter{CONCLUSION}
 \paragraph{}
