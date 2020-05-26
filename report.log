@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2020.5.25)  26 MAY 2020 18:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2020.5.25)  26 MAY 2020 21:42
 entering extended mode
 **"/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.tex"
 ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.tex"
@@ -1140,44 +1140,62 @@ Package pdftex.def Info: VidyaLogo.JPG  used on input line 694.
 [26 </Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png>]
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
-Package pdftex.def Info: VidyaLogo.JPG  used on input line 706.
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 707.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
  [27]
 Chapter 5.
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
-Package pdftex.def Info: VidyaLogo.JPG  used on input line 724.
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 717.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
 [28
 
 ]
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
-Package pdftex.def Info: VidyaLogo.JPG  used on input line 755.
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 727.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
- [29
+ [29]
+File: VidyaLogo.JPG Graphic file (type jpg)
+<use VidyaLogo.JPG>
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 732.
+(pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
+ [30]
+Chapter 6.
+File: VidyaLogo.JPG Graphic file (type jpg)
+<use VidyaLogo.JPG>
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 750.
+(pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
+[31
+
+]
+File: VidyaLogo.JPG Graphic file (type jpg)
+<use VidyaLogo.JPG>
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 781.
+(pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
+ [32
 
 
 ]
-Underfull \hbox (badness 1102) in paragraph at lines 762--765
+Underfull \hbox (badness 1102) in paragraph at lines 788--791
 \OT1/ptm/m/n/12 \Leaf classi?`cation us-ing shape, color, and tex-ture fea-tures," arXiv preprint
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 767--768
+Underfull \hbox (badness 10000) in paragraph at lines 793--794
 []\OT1/ptm/m/n/12 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-
  []
 
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
-Package pdftex.def Info: VidyaLogo.JPG  used on input line 790.
+Package pdftex.def Info: VidyaLogo.JPG  used on input line 816.
 (pdftex.def)             Requested size: 14.22636pt x 9.30887pt.
-[30] ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/lastpage.tex"
+[33] ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/lastpage.tex"
 File: VidyaLogo.JPG Graphic file (type jpg)
 <use VidyaLogo.JPG>
 Package pdftex.def Info: VidyaLogo.JPG  used on input line 18.
 (pdftex.def)             Requested size: 71.13188pt x 46.55115pt.
-) [31
+) [34
 
 ] ("/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.aux")
 
@@ -1185,17 +1203,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20009 strings out of 480803
- 391883 string characters out of 2886604
- 771263 words of memory out of 3000000
- 35548 multiletter control sequences out of 15000+200000
+ 20015 strings out of 480803
+ 392012 string characters out of 2886604
+ 771404 words of memory out of 3000000
+ 35554 multiletter control sequences out of 15000+200000
  566722 words of font info for 103 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,15n,108p,901b,1148s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,15n,108p,1045b,1174s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.pdf" (41 pages, 617593 bytes).
+Output written on "/Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.pdf" (44 pages, 624434 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
+ 186 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
