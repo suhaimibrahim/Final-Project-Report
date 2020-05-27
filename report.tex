@@ -724,6 +724,21 @@ Keras allows users to productize deep models on smartphones (iOS and Android), o
 
 \subsection{TensorFlow Lite}
 TensorFlow Lite is TensorFlow’s lightweight solution for mobile and embedded devices. It lets you run machine-learned models on mobile devices with low latency. Classification, regression, or anything else you might want without necessarily incurring a round trip to a server. It’s presently supported on Android and iOS via a C++ API, as well as having a Java Wrapper for Android Developers. TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size. TensorFlow Lite is designed to make it easy to perform machine learning on devices, "at the edge" of the network, instead of sending data back and forth from a server.
+\subsubsection{TensorFlow Lite converter}
+The TensorFlow Lite converter takes a TensorFlow model and generates a TensorFlow Lite FlatBuffer file (.tflite). The converter supports SavedModel directories, tf.keras models, and concrete functions. The TensorFlow Lite FlatBuffer file is then deployed to a client device (e.g. mobile, embedded) and run locally using the TensorFlow Lite interpreter. This conversion process is shown in the diagram below:
+
+\begin{figure}[H]
+	\label{ss}
+	\centering
+	\includegraphics[width=15cm,keepaspectratio]{tflite-converter-workflow.png}
+	\caption{Details on the VGG19 layers}
+\end{figure}
+
+\subsubsection{TensorFlow Lite interpreter}
+The term inference refers to the process of executing a TensorFlow Lite model on-device in order to make predictions based on input data. To perform an inference with a TensorFlow Lite model, it is run through an interpreter. The TensorFlow Lite interpreter is designed to be lean and fast. The interpreter uses a static graph ordering and a custom, less-dynamic memory allocator to ensure minimal load, initialization, and execution latency. This TensorFlow Lite interpreter is implemented in mobile apps in order to utilize a .tflite model for on-device predictions.
+
+\subsubsection{TensorFlow Model Optimization Toolkit}
+Various optimizations can be applied to models so that they can be run within the constraints on memory and compute power available in mobile and embedded devices. Tensorflow Lite and the Tensorflow Model Optimization Toolkit provide tools to perform such optimizations to the models. Size reduction and Latency reduction are the two main ways optimization can help. Quantization works by reducing the precision of the numbers used to represent a model's parameters, which by default are 32-bit floating point numbers. This results in a smaller model size and faster computation.
 
 \subsection{Android Studio}
 Android Studio is the official IDE for Android app development, based on IntelliJ IDEA. On top of IntelliJ’s powerful code editor and developer tools, Android Studio offers even more features that enhance your productivity when building Android apps, such as a flexible Gradle-based build system, a fast and feature-rich emulator, a unified environment where you can develop for all Android devices, Instant Run to push changes to your running app without building a new APK, etc.
