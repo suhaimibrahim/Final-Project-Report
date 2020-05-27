@@ -1,0 +1,571 @@
+PWD /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.tex
+OUTPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.log
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/preamble.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/preamble.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nomencl/nomencl.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nomencl/nomencl.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/tocbasic.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/tocbasic.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrbase.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrbase.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eso-pic/eso-pic.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eso-pic/eso-pic.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse-generic.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse-generic.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pst-node/pst-node.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pst-node/pst-node.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pstricks/pstricks.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pstricks/pstricks.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/shellesc.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/shellesc.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/pst-xkey.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/pst-xkey.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pstricks/pstricks.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pstricks/pstricks.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pstricks/pst-fp.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-lists.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pstricks/pstricks.con
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pstricks/pst-fp.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pstricks/pst-fp.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pst-node/pst-node.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pst-node/pst-node.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-lists.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ms/everyshi.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ms/everyshi.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancybox/fancybox.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancybox/fancybox.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/background/background.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/background/background.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/everypage/everypage.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/everypage/everypage.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/afterpage.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/afterpage.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+OUTPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.idx
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfpages/pdfpages.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfpages/pdfpages.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfpages/pppdftex.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfpages/pppdftex.def
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.aux
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.aux
+OUTPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.aux
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdflscape/pdflscape.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdflscape/pdflscape.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/lscape.sty
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/lscape.sty
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/frontmatter.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/frontmatter.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/titlepage.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/titlepage.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+OUTPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.pdf
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1pcr.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1pcr.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8r.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/certificate.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/certificate.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr7t.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/ueuf.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/ueuf.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/undertaking.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/undertaking.tex
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/acknowledgment.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/acknowledgment.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.toc
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.toc
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm7.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+OUTPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.toc
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.lof
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.lof
+OUTPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.lof
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.lot
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.lot
+OUTPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.lot
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/nomen.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/nomen.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx6.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8c.vf
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/waterfall.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/waterfall.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/waterfall.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/waterfall.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/waterfall.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/android-app-working.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/android-app-working.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/android-app-working.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/android-app-working.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/android-app-working.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/neural.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/neural.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/neural.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/neural.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/neural.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/convolutionlayer.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/convolutionlayer.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/convolutionlayer.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/convolutionlayer.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/convolutionlayer.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/pooling1.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/pooling1.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/pooling1.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/pooling1.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/pooling1.jpg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/CNN.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/CNN.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/CNN.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/CNN.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/CNN.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/transfer.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-layers.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/vgg19-arch-details.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/tflite-converter-workflow.png
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-1.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-1.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-1.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-1.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-1.jpeg
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-2.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-2.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-2.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-2.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-2.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-3.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-3.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-3.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-3.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-3.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-4.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-4.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-4.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-4.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/app-screenshot-4.jpeg
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/lastpage.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/lastpage.tex
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/VidyaLogo.JPG
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr7t.tfm
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrr7t.vf
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8r.tfm
+INPUT /Users/sebastiantf/Desktop/S8 Project Report/Final-Project-Report/report.aux
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
+INPUT /Users/sebastiantf/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb

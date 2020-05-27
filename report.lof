@@ -1,23 +1,20 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces System Architecture \relax }}{9}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces UML Diagram \relax }}{11}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces System Architecture\relax }}{12}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces High-level working of Android application\relax }}{16}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Drivers of ML industrial success according to Andrew Ng \relax }}{13}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Inception v3 Architecture\relax }}{14}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Array of RGB Matrix\relax }}{15}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Neural network with many convolutional layers\relax }}{16}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Image matrix multiplies kernel or filter matrix\relax }}{16}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Stride of 2 pixels\relax }}{17}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Max Pooling\relax }}{18}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces After pooling layer, flattened as FC layer\relax }}{18}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces ReLU operation\relax }}{19}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Inception cell\relax }}{20}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Inception Network\relax }}{21}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Deep Neural Network\relax }}{18}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Convolution Process\relax }}{20}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Pooling\relax }}{21}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Convolutional Neural Network\relax }}{22}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Three ways in which transfer might improve learning.\relax }}{25}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Layers in VGG19\relax }}{26}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Details on the VGG19 layers\relax }}{27}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Details on the VGG19 layers\relax }}{31}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Model Accuracy Plot\relax }}{27}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Android Application\relax }}{28}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Details on the VGG19 layers\relax }}{34}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Details on the VGG19 layers\relax }}{35}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Screenshots of the mobile application\relax }}{37}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces User Interface\relax }}{30}

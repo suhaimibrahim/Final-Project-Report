@@ -1,11 +1,9 @@
-This is C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\makeindex.EXE, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+This is makeindex, version 2.15 [MiKTeX 2.9.7050] (kpathsea + Thai support).
 Scanning input file report.idx...
 !! Input index error (file = report.idx, line = 1):
    -- Illegal page number .
 !! Input index error (file = report.idx, line = 2):
    -- Illegal page number .
-.done (4 entries accepted, 2 rejected).
-Sorting entries....done (9 comparisons).
-Generating output file report.ind....done (5 lines written, 0 warnings).
-Output written in report.ind.
+done (0 entries accepted, 2 rejected).
+Nothing written in report.ind.
 Transcript written in report.ilg.

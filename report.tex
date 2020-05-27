@@ -60,26 +60,8 @@
 \chapter*{\centering{Abstract}}
 \addcontentsline{toc}{chapter}{\quad ABSTRACT}
 
-Identification of the correct medicinal plants that go into the preparation of
-medicine is very important in the ayurvedic medicinal industry.
-The main features required to identify a medicinal plant are its leaf shape,
-colour, and texture. Colour and texture of the leaf contain deterministic
-parameters to identify the species. Use of the correct plant extracts is crucial
-in Ayurvedic treatment. There is a lot of emphasis on herbal and indigenous
-medicines worldwide, especially in India. But the major drawback is the
-difficulty in finding the ingredients for the medicine.
-A database of medicinal plant leaves is created from scanned images of the
-leaves of commonly used ayurvedic medicinal plants; 60 classes of images
-containing 1000 samples per class are acquired in the dataset.
-Existing solutions perform image processing to extract features of leaves
-from images and apply machine learning techniques to infer the unique
-features of each plant. Models thus developed take new images as input and
-predict the type of plant being identified.
-The solution we propose uses the huge dataset we possess, to train Artificial
-Neural Network (ANN) which then learns about the features of the leaves. This
-approach produces better results than existing methods that try to solve the same problem.
-We are also building a mobile
-application with which the users can identify the plant by capturing images or videos.
+Identification of the correct medicinal plants that go into the preparation of medicine is very important in the ayurvedic medicinal industry. The main features required to identify a medicinal plant are its leaf shape, color, and texture. Colour and texture of the leaf contain deterministic parameters to identify the species. The use of the correct plant extracts is crucial in Ayurvedic treatment. There is a lot of emphasis on herbal and indigenous
+medicines worldwide, especially in India. But the major drawback is the difficulty in finding the ingredients for the medicine. Existing solutions perform image processing to extract features of leaves from images and apply machine learning techniques to infer the unique features of each plant.  The solution we propose uses the huge dataset we possess, to train Deep Neural Network(DNN) which then learns about the features of the leaves. Models thus developed take new images as input and predict the type of plant being identified. A database of medicinal plant leaves is created from scanned images of the leaves of commonly used ayurvedic medicinal plants; 55 classes of images containing 1000 samples per class are acquired in the dataset. This approach produces better results than existing methods that try to solve the same problem. We are also building a mobile application with which the users can identify the plant by capturing the real-time images of the plant.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -420,12 +402,11 @@ System design is the process of designing the elements of a system such as the a
 \end{figure}
 The proposed system identifies the Ayurvedic plant with an image of its leaf taken using an android application.
 User captures image of the leaf of the Ayurvedic plant to be identified.
-App uses deep learning model to identify the class of the leaf and displays result. The major steps involved in identification are:\\
+App uses deep learning model to identify the class of the leaf and displays result. The major steps involved in identification are:
 \begin{itemize}
  \item Image Acquisition
  \item  Preprocessing
  \item Apply Deep Learning Algorithms
- \item  Feature Extraction
  \item Leaf Classification
 \end{itemize}
 
@@ -437,7 +418,7 @@ The image taken is first preprocessed in the system. Some of the various preproc
 \begin{itemize}
     \item{Uniform Aspect Ratio}\\One of the first steps is to ensure that the images have the same size and aspect ratio. Most of the neural network models assume a square shape input image, which means that each image needs to be checked if it is a square or not, and cropped appropriately. Cropping can be done to select a square part of the image.
     \item{Image Scaling}\\Once we have ensured that all images are square (or have some predetermined aspect ratio), it’s time to scale each image appropriately. 
-    \item{Dimensionality Reduction}\\We could choose to collapse the RGB channels into a single gray-scale channel.
+    \item{Normalization}\\The pixel values of the images can be normalized into a range of 0 to 1. This normalization can help remove distortions caused by lights and shadows in the image.
 \end{itemize}
 \subsection{Apply Deep Learning Algorithms}
 Deep learning is a type of machine learning (ML) and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge. It teaches the computer to learn by example.\\
@@ -505,7 +486,17 @@ The stages in the system are:- \\
 \end{center}
 \caption{Some plants in the database}
 \end{table}
+\pagebreak
 
+\section{Android Application}
+The trained models are deployed in an Android application so that the model can be utilized using a smartphone. The user can then use this application to capture real-time images of the leaves that he/she wants identified. The real-time images are fed to the model deployed in the application, and it performs predictions on the input images in the background and produces the top three predictions as it's output. 
+
+\begin{figure}[h]
+	\label{ss}
+	\centering
+	\includegraphics[width=15cm]{android-app-working.png}
+	\caption{High-level working of Android application}
+\end{figure}
 
 \chapter{METHODOLOGY}
 
@@ -607,7 +598,7 @@ server resources with GPUs. Despite the power of CNNs, these networks have one d
 learning method, they require a large set of labeled data for training, which can be
 challenging to obtain in a real-world application.
 
-\section{Transfer Image Learning}
+\section{Transfer Learning}
 Transfer learning is popular in Deep learning given the enormous resources required to train deep learning models or the large and challenging datasets on which deep learning models are trained.\\
 In transfer learning, we first train a base network on a base dataset and task, and then we transfer them, to a second network to be trained on another dataset and task. This process will tend to work if the features are general, meaning suitable to both base and target tasks.\\
 The benefits of Transfer Learning are that it can speed up the time it takes to develop
@@ -659,16 +650,178 @@ On some problems where you may not have very much data, transfer learning can en
 	\caption{Three ways in which transfer might improve learning.}
 \end{figure}
 
+\section{VGG19}
+AlexNet was released in 2012 and it improved on the traditional Convolutional Neural Networks. VGG can be considered as a successor of the AlexNet. It was created by a group called Visual Geometry Group at University of Oxford and hence the name VGG. The VGG network architecture was introduced by Simonyan and Zisserman in their 2014 paper, \emph{Very Deep Convolutional Networks for Large Scale Image Recognition}. It carries and uses some ideas from it's predecessors and improves on them and uses deep Convolutional neural layers to improve accuracy.\\\\
+VGG19 is a variant of VGG model which consists of 19 layers: 16 Convolution layers, 3 Fully Connected layers, 5 Max Pool layers and 1 Softmax layer. There are other variants of VGG like VGG11, VGG16 and others. VGG19 has 19.6 billion FLOPs.\pagebreak
+
+\subsection{Layers}
+This network is characterized by its simplicity, using only 3×3 convolutional layers stacked on top of each other in increasing depth. Reducing volume size is handled by max pooling. Two fully-connected layers, each with 4,096 nodes are then followed by a softmax classifier.\\\\
+A summary of the layers in the VGG19 model can be found in the following image:\\
+
+\begin{figure}[h]
+	\label{ss}
+	\centering
+	\includegraphics[width= 16 cm]{vgg19-layers.png}
+	\caption{Layers in VGG19}
+\end{figure}
+\pagebreak
+The table in the figure below contains the details of number of filters, parameters and activations for each layer in the VGG19 model:\\
+
+\begin{figure}[H]
+	\label{ss}
+	\centering
+	\includegraphics[width=20cm,height=15cm,keepaspectratio]{vgg19-arch-details.png}
+	\caption{Details on the VGG19 layers}
+\end{figure}
+
+\subsection{Architecture}
+A fixed size of (224 * 224) RGB image was given as input to this network. So the input matrix was of shape (224,224,3).
+The only preprocessing that was done is that the mean RGB value is subtracted from each pixel, over the whole training set.
+Kernels of (3 * 3) size with a stride size of 1 pixel were used. This enabled to cover the whole notion of the image.
+Spatial padding was used to preserve the spatial resolution of the image.
+Max pooling was performed over a 2 * 2 pixel windows with a stride of 2.
+This was followed by Rectified linear unit(ReLu) to introduce non-linearity to make the model classify better and to improve computational time.
+Three fully connected layers were implemented from which first two were of size 4096 and followed by a layer with 1000 channels for 1000-way ILSVRC classification and the final layer is a softmax function.
+
+\subsection{Results}
+On a single test scale, VGG achieved a top-1 error of 25.5\% and a top-5 error of 8.0\%. At multiple test scales, VGG got a top-1 error of 24.8\% and a top-5 error of 7.5\%. VGG also achieved second place in the 2014 ImageNet competition with its top-5 error of 7.3\%, which was decreased to 6.8\% after the submission.
+
+\subsection{Usages}
+\begin{itemize}
+    \item Considered to be one of the best vision model architectures
+    \item Used as a great classification architecture for many different datasets
+    \item Weights are easily available with frameworks like Keras
+    \item Transfer Learning
+\end{itemize}
+
+
+\chapter{IMPLEMENTATION AND DEPLOYMENT}
+
+\section{Software Requirements}
+These are main sofware requirements to implement the proposed solution.
+
+\subsection{NumPy}
+NumPy is a general-purpose array-processing package.  It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.  At the core of the NumPy package, is the ndarray object.  This encapsulates n-dimensional arrays of homogeneous data types, with many operations being performed in compiled code for performance.
+
+\subsection{TensorFlow}
+TensorFlow is an open-source software library released in 2015 by Google to make it easier for developers to design, build, and train deep learning models. TensorFlow is available on different operating systems such as Linux, Windows, macOS, and also on mobile operating platforms like iOS and Android.  One of the salient features of TensorFlow is that it is capable of running on multiple CPUs and GPUs.  The computations in Tensor-Flow are reported as stateful dataflow graphs. TensorFlow is considered the first serious implementation of a framework focused on deep learning. TensorFlow can train and run deep neural networks for handwritten digit classification, image recognition, word embeddings, recurrent neural networks, sequence-to-sequence models for machine translation, natural language processing, and PDE (partial differential equation) based simulations. TensorFlow supports production prediction at scale, with the same models used for training.
+
+\subsection{Keras}
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. It focuses on being user-friendly, modular, and extensible. It was developed as part of the research effort of project ONEIROS (Open-ended Neuro-Electronic Intelligent Robot Operating System). Keras contains numerous implementations of commonly used neural-network building blocks such as layers, objectives, activation functions, optimizers, and a host of tools to make working with image and text data easier.
+
+In addition to standard neural networks, Keras has support for convolutional and re-current  neural  networks.   It  supports  other  common  utility  layers  like  dropout,  batchnormalization, and pooling.
+
+Keras allows users to productize deep models on smartphones (iOS and Android), on the web, or on the Java Virtual Machine. It also allows use of distributed training of deep-learning models on clusters of Graphics Processing Units (GPU) and Tensor processingunits (TPU).
+
+\subsection{TensorFlow Lite}
+TensorFlow Lite is TensorFlow’s lightweight solution for mobile and embedded devices. It lets you run machine-learned models on mobile devices with low latency. Classification, regression, or anything else you might want without necessarily incurring a round trip to a server. It’s presently supported on Android and iOS via a C++ API, as well as having a Java Wrapper for Android Developers. TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size. TensorFlow Lite is designed to make it easy to perform machine learning on devices, "at the edge" of the network, instead of sending data back and forth from a server.
+\subsubsection{TensorFlow Lite converter}
+The TensorFlow Lite converter takes a TensorFlow model and generates a TensorFlow Lite FlatBuffer file (.tflite). The converter supports SavedModel directories, tf.keras models, and concrete functions. The TensorFlow Lite FlatBuffer file is then deployed to a client device (e.g. mobile, embedded) and run locally using the TensorFlow Lite interpreter. This conversion process is shown in the diagram below:
+
+\begin{figure}[H]
+	\label{ss}
+	\centering
+	\includegraphics[width=15cm,keepaspectratio]{tflite-converter-workflow.png}
+	\caption{Details on the VGG19 layers}
+\end{figure}
+
+\subsubsection{TensorFlow Lite interpreter}
+The term inference refers to the process of executing a TensorFlow Lite model on-device in order to make predictions based on input data. To perform an inference with a TensorFlow Lite model, it is run through an interpreter. The TensorFlow Lite interpreter is designed to be lean and fast. The interpreter uses a static graph ordering and a custom, less-dynamic memory allocator to ensure minimal load, initialization, and execution latency. This TensorFlow Lite interpreter is implemented in mobile apps in order to utilize a .tflite model for on-device predictions.
+
+\subsubsection{TensorFlow Model Optimization Toolkit}
+Various optimizations can be applied to models so that they can be run within the constraints on memory and compute power available in mobile and embedded devices. Tensorflow Lite and the Tensorflow Model Optimization Toolkit provide tools to perform such optimizations to the models. Size reduction and Latency reduction are the two main ways optimization can help. Quantization works by reducing the precision of the numbers used to represent a model's parameters, which by default are 32-bit floating point numbers. This results in a smaller model size and faster computation.
+
+\subsection{Android Studio}
+Android Studio is the official IDE for Android app development, based on IntelliJ IDEA. On top of IntelliJ’s powerful code editor and developer tools, Android Studio offers even more features that enhance your productivity when building Android apps, such as a flexible Gradle-based build system, a fast and feature-rich emulator, a unified environment where you can develop for all Android devices, Instant Run to push changes to your running app without building a new APK, etc.
+
+\section{Dataset Preparation}
+The dataset for this system was formed by capturing photos of leaves of 55 species with 1000 images per species. The names of some of the species available in the dataset is specified in Table 3.1 From among the 1000 images per sample, a total of 120 images were selected. These images were split at 80:20 ratio; thus forming a training set of 96 images and a test set of 24 images. This split was done under manual supervision, so as to have more control over the images being trained and tested on.
+
+\subsection{Preprocessing}
+Each of the images in the prepared dataset were resized into 128 * 128 dimensions. The pixel values of the images were normalized into a range of 0 to 1 from the original range of 0 to 255. This normalization can help to remove distortions caused by lights and shadows in the image.
+
+\section{Implementation}
+\subsection{Convolutional Neural Network}
+We developed a Convolutional Neural Network using the Keras API, which consists of 3 Convolutional layers with 2 Max Pooling layers each in between the convolutional layers. Their output is flattened and fed to three successive Fully Connected Layers the last of which is the output layer. This model is compiled with the ADAM optimizer.\\
+
+This model was then trained using the dataset. After training, it was saved in the TensorFlow SavedModel format.
+
+\subsection{Transfer Learning}
+Using the pre-trained VGG19 model as the base model, we developed a new model. The base model is added as the initial layer, then a GlobalAveragePooling2D layer followed by a Fully Connected Layer is added to the final model. This is model is compiled with ADAM optimizer.\\
+
+This model was then trained using the dataset. After training, it was saved in the TensorFlow SavedModel format.
+
+\section{Deployment}
+Both the models which were saved in the SavedModel format were converted into .tflite format using the TensorFlow Lite converter. Before conversion, the models were optimized for size and latency reduction by quantization using the TensorFlow Model Optimization Toolkit. We then integrated these models into an Android app using the TensorFlow Image Classification Android app as a starting point. Thus we were able to deploy the models onto a mobile device.
+
+\chapter{EVALUATION AND RESULT}
+\section{Evaluation of Models}
+\subsection{Convolutional Neural Network}
+The model trains on 5 Epochs on 20 batch sizes using SGD optimizer with learning rateof 0.0001. Using 416 training images on model achieves 99.16\% accuracy with minimumtraining loss and using 209 validation set images gives 76.09\% validation accuracy.\\
+\begin{figure}[H]
+	\label{ss}
+	\centering
+	\includegraphics[width=15cm,keepaspectratio]{tflite-converter-workflow.png}
+	\caption{Details on the VGG19 layers}
+\end{figure}
+In first epoch shows the model to have higher training loss.  As further training andoptimizing  reduces  training  and  validation  losses.   The  model  seems  to  declines  lossfaster, hence model reaches point where further training could lead to Overfitting, hencethe model is limited to train at 5 epochs with 200 steps per epoch and the model is selected to be deployed in app.  The Inception model contains 18,329,487 trainable parametersout  of  23,916,335  total  parameters.   As  by  Top-1  and  Top-5  validation  accuracies  onthe ILSVRC 2012 image classification benchmark based on a single crop of the image,InceptionV3  achieves  78.0\%  Top-1  Validation  Accuracy  and  93.5\%  Top-5  ValidationAccuracy.  Since the app works on On-Device model the response time for predictingproduct is lesser than as to compared with cloud service which can be slow by networktraffic. Hence the app would take time for smaller delays for database response.
+
+\subsection{Transfer Learning}
+The model trains on 5 Epochs on 20 batch sizes using SGD optimizer with learning rateof 0.0001. Using 416 training images on model achieves 99.16\% accuracy with minimumtraining loss and using 209 validation set images gives 76.09\% validation accuracy.\\
+\begin{figure}[H]
+	\label{ss}
+	\centering
+	\includegraphics[width=15cm,keepaspectratio]{tflite-converter-workflow.png}
+	\caption{Details on the VGG19 layers}
+\end{figure}
+In first epoch shows the model to have higher training loss.  As further training andoptimizing  reduces  training  and  validation  losses.   The  model  seems  to  declines  lossfaster, hence model reaches point where further training could lead to Overfitting, hencethe model is limited to train at 5 epochs with 200 steps per epoch and the model is selected to be deployed in app.  The Inception model contains 18,329,487 trainable parametersout  of  23,916,335  total  parameters.   As  by  Top-1  and  Top-5  validation  accuracies  onthe ILSVRC 2012 image classification benchmark based on a single crop of the image,InceptionV3  achieves  78.0\%  Top-1  Validation  Accuracy  and  93.5\%  Top-5  ValidationAccuracy.  Since the app works on On-Device model the response time for predictingproduct is lesser than as to compared with cloud service which can be slow by networktraffic. Hence the app would take time for smaller delays for database response.
+
+\section{Android Application}
+Some screenshots of predictions performed by the developed mobile application are given below. The application successfully classifies the leaves tested by the user with good accuracy and speed. Although, the latency seems to vary on different devices due to the differences in the hardware resources in each device, the application provided good results in the devices we tested.
+
+\begin{figure}[H]
+
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth, height=10cm]{app-screenshot-1.jpeg}
+		\caption{Screenshot 1}
+		\label{fig:sfig1}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth, height=10cm]{app-screenshot-2.jpeg}
+		\caption{Screenshot 2}
+		\label{fig:sfig2}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth, height=10cm]{app-screenshot-3.jpeg}
+		\caption{Screenshot 3}
+		\label{fig:sfig2}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth, height=10cm]{app-screenshot-4.jpeg}
+		\caption{Screenshot 4}
+		\label{fig:sfig2}
+	\end{subfigure}
+
+\caption{Screenshots of the mobile application}
+\label{fig:fig}
+\end{figure}
 
 \chapter{CONCLUSION}
 \paragraph{}
-Ayurveda and herbal medicines are greatly used and followed worldwide, especially in India. Herbal medicine plants pose a big impact on the health of every people around the world. But the major issue we face is difficulty in efficiently and effectively identifying the plants that form the ingredients for the medicine.
+We have used a dataset of images of 55 Ayurvedic species of leaves to train and develop deep learning models that can identify Ayurvedic leaves from outside world with good prediction. We used three deep learning techniques viz.  Deep Neural Network, Convolutional Neural Network, and Transfer Learning and inferred that Transfer Learning gave the best results. We deployed the model that gave the best results in an Android application and it produces inferences on real world leaves with good accuracy and inference time.
 
-Many recent studies exist on plant classification and identification based on different plant features. Solutions that are proposed in many of the recent papers and studies use image processing techniques to extract features from images of leaves and apply machine learning or deep learning techniques to learn the features of each plant. Models thus developed take new images as input and predict the type of plant being identified.
+\section{Scope}
+Ayurveda and herbal medicines are greatly used and followed worldwide, especially in India. Herbal medicine plants pose a big impact on the health of every people around the world.  But the major issue we face is difficulty in efficiently and effectively identifying the plants that form the ingredients for the medicine.
+This application can be used by users from any background to identify ayurvedic medicinal plants by capturing images or videos of the same.
+Thus we believe this work is a major step forward in the efficient and effective identification of Ayurvedic medicinal plants and also provides a good reference for future works in this field.
 
-We will use a huge dataset of images of 60 species of leaves collected from a private botanical garden. The solution we propose aims to apply deep learning techniques to learn the features of leaves from leaf images. We will use three deep learning techniques viz. Deep Neural Network, Convolutional Neural Network, and Transfer Learning. We will evaluate and analyze the performance of all three techniques. This approach produces better results than the methods proposed in existing research.
- 
-We will build a mobile application that implements the technique with the best performance among the three. This application can be used by users from any background to identify ayurvedic medicinal plants by capturing images or videos of the same. Thus, we aim to solve the problem of effective identification of herbal plants and convey the results of our work for anyone to use in an efficient manner.
+\section{Future Developments}
+We shall add more species of leaves into the dataset and let the model learn from them too so that users can use the application to identify more species. The application only identifies and outputs the name of the identified plant species along with it's common name for now. We shall add a feature either to display further details and medicinal uses of the identified species in the app itself if the user chooses, or add links that take the users to resources available online that contain such details about the identified species. We shall also add more features based on user feedback.
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
