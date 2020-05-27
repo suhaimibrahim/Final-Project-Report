@@ -402,12 +402,11 @@ System design is the process of designing the elements of a system such as the a
 \end{figure}
 The proposed system identifies the Ayurvedic plant with an image of its leaf taken using an android application.
 User captures image of the leaf of the Ayurvedic plant to be identified.
-App uses deep learning model to identify the class of the leaf and displays result. The major steps involved in identification are:\\
+App uses deep learning model to identify the class of the leaf and displays result. The major steps involved in identification are:
 \begin{itemize}
  \item Image Acquisition
  \item  Preprocessing
  \item Apply Deep Learning Algorithms
- \item  Feature Extraction
  \item Leaf Classification
 \end{itemize}
 
@@ -419,7 +418,7 @@ The image taken is first preprocessed in the system. Some of the various preproc
 \begin{itemize}
     \item{Uniform Aspect Ratio}\\One of the first steps is to ensure that the images have the same size and aspect ratio. Most of the neural network models assume a square shape input image, which means that each image needs to be checked if it is a square or not, and cropped appropriately. Cropping can be done to select a square part of the image.
     \item{Image Scaling}\\Once we have ensured that all images are square (or have some predetermined aspect ratio), it’s time to scale each image appropriately. 
-    \item{Dimensionality Reduction}\\We could choose to collapse the RGB channels into a single gray-scale channel.
+    \item{Normalization}\\The pixel values of the images can be normalized into a range of 0 to 1. This normalization can help remove distortions caused by lights and shadows in the image.
 \end{itemize}
 \subsection{Apply Deep Learning Algorithms}
 Deep learning is a type of machine learning (ML) and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge. It teaches the computer to learn by example.\\
@@ -599,7 +598,7 @@ server resources with GPUs. Despite the power of CNNs, these networks have one d
 learning method, they require a large set of labeled data for training, which can be
 challenging to obtain in a real-world application.
 
-\section{Transfer Image Learning}
+\section{Transfer Learning}
 Transfer learning is popular in Deep learning given the enormous resources required to train deep learning models or the large and challenging datasets on which deep learning models are trained.\\
 In transfer learning, we first train a base network on a base dataset and task, and then we transfer them, to a second network to be trained on another dataset and task. This process will tend to work if the features are general, meaning suitable to both base and target tasks.\\
 The benefits of Transfer Learning are that it can speed up the time it takes to develop
