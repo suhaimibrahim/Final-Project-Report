@@ -728,6 +728,26 @@ TensorFlow Lite is TensorFlow’s lightweight solution for mobile and embedded d
 \subsection{Android Studio}
 Android Studio is the official IDE for Android app development, based on IntelliJ IDEA. On top of IntelliJ’s powerful code editor and developer tools, Android Studio offers even more features that enhance your productivity when building Android apps, such as a flexible Gradle-based build system, a fast and feature-rich emulator, a unified environment where you can develop for all Android devices, Instant Run to push changes to your running app without building a new APK, etc.
 
+\section{Dataset Preparation}
+The dataset for this system was formed by capturing photos of leaves of 55 species with 1000 images per species. The names of some of the species available in the dataset is specified in Table 3.1 From among the 1000 images per sample, a total of 120 images were selected. These images were split at 80:20 ratio; thus forming a training set of 96 images and a test set of 24 images. This split was done under manual supervision, so as to have more control over the images being trained and tested on.
+
+\subsection{Preprocessing}
+Each of the images in the prepared dataset were resized into 128 * 128 dimensions. The pixel values of the images were normalized into a range of 0 to 1 from the original range of 0 to 255. This normalization can help to remove distortions caused by lights and shadows in the image.
+
+\section{Implementation}
+\subsection{Convolutional Neural Network}
+We developed a Convolutional Neural Network using the Keras API, which consists of 3 Convolutional layers with 2 Max Pooling layers each in between the convolutional layers. Their output is flattened and fed to three successive Fully Connected Layers the last of which is the output layer. This model is compiled with the ADAM optimizer.\\
+
+This model was then trained using the dataset. After training, it was saved in the TensorFlow SavedModel format.
+
+\subsection{Transfer Learning}
+Using the pre-trained VGG19 model as the base model, we developed a new model. The base model is added as the initial layer, then a GlobalAveragePooling2D layer followed by a Fully Connected Layer is added to the final model. This is model is compiled with ADAM optimizer.\\
+
+This model was then trained using the dataset. After training, it was saved in the TensorFlow SavedModel format.
+
+\section{Deployment}
+Both the models which were saved in the SavedModel format were converted into .tflite format using the TensorFlow Lite converter. Before conversion, the models were optimized for size and latency reduction by quantization using the TensorFlow Model Optimization Toolkit. We then integrated these models into an Android app using the TensorFlow Image Classification Android app as a starting point. Thus we were able to deploy the models onto a mobile device.
+
 
 \chapter{CONCLUSION}
 \paragraph{}
