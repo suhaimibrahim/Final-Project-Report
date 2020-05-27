@@ -777,6 +777,39 @@ The model trains on 5 Epochs on 20 batch sizes using SGD optimizer with learning
 \end{figure}
 In first epoch shows the model to have higher training loss.  As further training andoptimizing  reduces  training  and  validation  losses.   The  model  seems  to  declines  lossfaster, hence model reaches point where further training could lead to Overfitting, hencethe model is limited to train at 5 epochs with 200 steps per epoch and the model is selected to be deployed in app.  The Inception model contains 18,329,487 trainable parametersout  of  23,916,335  total  parameters.   As  by  Top-1  and  Top-5  validation  accuracies  onthe ILSVRC 2012 image classification benchmark based on a single crop of the image,InceptionV3  achieves  78.0\%  Top-1  Validation  Accuracy  and  93.5\%  Top-5  ValidationAccuracy.  Since the app works on On-Device model the response time for predictingproduct is lesser than as to compared with cloud service which can be slow by networktraffic. Hence the app would take time for smaller delays for database response.
 
+\section{Android Application}
+Some screenshots of predictions performed by the developed mobile application are given below. The application successfully classifies the leaves tested by the user with good accuracy and speed. Although, the latency seems to vary on different devices due to the differences in the hardware resources in each device, the application provided good results in the devices we tested.
+
+\begin{figure}[H]
+
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth, height=10cm]{app-screenshot-1.jpeg}
+		\caption{Screenshot 1}
+		\label{fig:sfig1}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth, height=10cm]{app-screenshot-2.jpeg}
+		\caption{Screenshot 2}
+		\label{fig:sfig2}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth, height=10cm]{app-screenshot-3.jpeg}
+		\caption{Screenshot 3}
+		\label{fig:sfig2}
+	\end{subfigure}
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth, height=10cm]{app-screenshot-4.jpeg}
+		\caption{Screenshot 4}
+		\label{fig:sfig2}
+	\end{subfigure}
+
+\caption{Screenshots of the mobile application}
+\label{fig:fig}
+\end{figure}
 
 \chapter{CONCLUSION}
 \paragraph{}
